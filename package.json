@@ -1,0 +1,25 @@
+{
+  "name": "typescriptpractise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node dist/index.js",
+    "dev" : "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkali00001/typeScriptPractise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mkali00001/typeScriptPractise/issues"
+  },
+  "homepage": "https://github.com/mkali00001/typeScriptPractise#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
